@@ -1,11 +1,12 @@
 ## Paaystack documentation
-Save Organization Pay stack Credential (Method =POST)
+   Save Organization Pay stack Credential (Method =POST)
   		http://127.0.0.1:addyourort/paystack
            {
     	     "paystack_key":"add the paystack key here"
            }
 
 
+    
     Get Organization Pay Stack Credential (Method =GET)
       http://127.0.0.1:addyourport/paystack_credentials
 
